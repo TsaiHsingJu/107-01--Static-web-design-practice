@@ -25,7 +25,28 @@
 * [FLEXBOX FROGGY](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w06-2/FLEXBOX%20FROGGY)
 
 ## week7
-* [tkuassign](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w07)
+* [tkuasign](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w07)
+* [galleryTemplate](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w07-2)
+
+## week8
+* [pattern](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w08)
+
+## week9
+* [test](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w09)
+
+## week11
+* [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w11/bootstrap_sandbox_starter)
+
+## week12
+* [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w12/bootstrap_sandbox_starter)
+
+* [bs4boiler](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w12/bs4boiler/bs4boiler)
+
+## week13
+* [bootstrap_sandbox_starter](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w13/bootstrap_sandbox_starter)
+
+* [bs4boiler](https://github.com/TsaiHsingJu/107-1-Static-web-design/tree/master/w13/bs4boiler/bs4boiler)
+
 <!--stackedit_data:
 eyJoaXN0b3J5IjpbNjY2NTYxMjc2XX0=
 -->

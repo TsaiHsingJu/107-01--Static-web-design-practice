@@ -1,0 +1,98 @@
+#pet {
+    font-family: Arial, Helvetica, sans-serif, 微軟正黑體;
+    background: url(../image/bg.jpg);
+    margin: auto;
+}
+
+#pet header {
+    width: 800px;
+    height: 80px;
+    background-color: #330000;
+    margin: auto;
+}
+
+#pet h1#text1 {
+    position: absolute;
+    color: #FF0000;
+    margin-top: 15px;
+    margin-left: 50px;
+    margin: auto;
+}
+
+#pet h1#text2 {
+    position: absolute;
+    color: #FFFFFF;
+    margin-top: 30px;
+    margin-left: 150px;
+    margin: auto;
+}
+
+#pet aside {
+    width: 170px;
+    height: 400px;
+    background: url(../image/bg_lt.png);
+    float: left;
+    margin: auto;
+}
+
+#pet article {
+    width: 628px;
+    height: 400px;
+    margin-left: 172px;
+    background-color: beige;
+    margin: auto;
+}
+
+#pet footer {
+    width: 800px;
+    height: 50px;
+    background-color: #330000;
+    color: #FFFFFF;
+    text-align: center;
+    line-height: 50px;
+    margin: auto;
+}
+
+#pet div nav {
+    margin-top: 170px;
+}
+
+#pet div nav ul {
+    padding: 10px;
+    list-style: none;
+}
+
+#pet div nav ul li a {
+    display: block;
+    width: 150px;
+    height: 42px;
+    background-image: url(../image/btn.png);
+    text-indent: 50px;
+    line-height: 35px;
+}
+
+#pet div nav ul a:hover {
+    background-image: url(../image/btn_hover.png);
+    color: white;
+}
+
+#pet img {
+    width: 120px;
+    margin: 3px;
+    border-radius: 15px;
+    
+}
+
+#pet .consection {
+    width: 450px;
+    margin: 0px auto;
+    padding: 20px;
+}
+
+#pet fieldset {
+    border-radius: 10px;
+}
+
+#pet fieldset legend {
+    text-align: center;
+}

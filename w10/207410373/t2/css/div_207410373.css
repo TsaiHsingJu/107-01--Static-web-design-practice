@@ -1,0 +1,98 @@
+logo{
+    width: 30%;
+    height: 80px;
+    border: 2px solid black;
+    background-color:seashell;
+    float: left;
+}
+
+aside{
+    width:30%;
+    height: 520px;
+    border: 2px solid black;
+    background-color:mistyrose;
+    float: left;
+    clear: both;
+}
+
+nav{
+    width: 25%;
+    height:450px ;
+    border: 2px solid black;
+    background-color: ;
+    float: left;
+}
+
+
+header{
+    width: 70%;
+    height: 80px;
+    border: 2px solid black;
+    background-color:mintcream;
+    float: right;
+}
+
+article{
+    width: 70%;
+    height:520px ;
+    border: 2px solid black;
+    background-color:palevioletred;
+    float: right;
+}
+        
+section{
+    width: 55%;
+    height:520px ;
+    border: 2px solid black;
+    background-color:palevioletred;
+    float: right;       
+}
+
+display{
+    width: 40%;
+    height: ;
+    border: 2px solid black;
+    background-color: ;
+    float: right;
+}
+
+picContainer{
+    width:60%;
+    height: 50px;
+    border: 2px solid black;
+    background-color: ;
+    float: right;
+}
+
+small_pic{
+    width:10%;
+    height:30px ;
+    border: 2px solid black;
+    background-color: ;
+    float: right;
+}
+
+
+footer{
+    width:100%;
+    height:80px ;
+    border: 2px solid black;
+    background-color:aliceblue;
+    clear: both;
+}
+
+#hi{
+    width:auto;
+    height: 600px;
+}
+
+#hello{
+    width:auto;
+    height:600px ;
+ } 
+        
+#amy{
+     width: ;    
+     height: ;
+ }
+
